@@ -1,0 +1,15 @@
+{
+  "name": "get-started-with-graphql",
+  "version": "1.0.0",
+  "description": "Introdution to graphql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Calvin",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.0.2",
+    "graphql": "^15.5.1"
+  }
+}
